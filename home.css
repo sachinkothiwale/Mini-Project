@@ -1,0 +1,54 @@
+.btn-group button
+ {
+  background-color: green;
+  border: 12px solid white; 
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+  float: left;
+position: relative;
+  left: 830px;
+  top: 100px;
+}
+.btn-group button:hover
+{
+  background-color: #3e8e41;
+}
+
+#image
+{
+        box-sizing: content-box;
+        width: 200px;
+        height: 100px;
+        position: relative;
+        padding: 0px;
+        top: 0;
+        left:50px;
+}
+#VMlable
+{
+        box-sizing: content-box;
+        width: 200px;
+        height: 30px;
+        position: relative;
+        padding: 0px;
+        top: 30;
+        left:170px;
+}
+#main
+{
+        background-color: White;
+        width: 1330px;
+        height:450px;
+        border: 1px solid gray;
+        padding: 0;
+        margin: 25px;
+        position: absolute;
+        right: -1030px;
+}
+#NurseryImage1
+{
+  position: relative;
+  top: 0px;
+  left: opx;
+}

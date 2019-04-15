@@ -1,0 +1,108 @@
+body
+{
+   font -family: Tahoma ,Geneva ,sans-serif;
+   color: #fff;
+   background: url(plant2-1.jpg);
+   background-size: 1500px 1000px;
+
+
+}
+.signin
+{
+    background: rgba(44,62,80,0.7);
+    padding:40px;
+    width:350px;
+    height:300px;
+    position: relative;
+    top: 170px;
+    left: 550px;
+
+}
+#label
+{
+font-family: cooper;
+font-size: 30px;
+
+}
+#image
+{
+  box-sizing: content-box;
+  width: 70px;
+  height: 100px;
+  position: relative;
+  padding: 0px;
+  top: 130px;
+  left:670px;
+}
+form
+{
+	width=240px;
+	text-align:center;
+
+}
+
+input[type=text]
+{
+	width=240px;
+	text-align:center;
+	font-family:'Play' , sans-serif;
+	font-size:16px;
+	font-weight:200px;
+	color:#fff;
+  border: 1px solid black;
+  color: black;
+}
+input[type=Password]
+{
+  width=240px;
+	text-align:center;
+	font-family:'Play' , sans-serif;
+	font-size:16px;
+	font-weight:200px;
+	color:#fff;
+  border: 1px solid black;
+  color: black;
+}
+input[type=button]
+{
+	border:none;
+	width:150px;
+	background:white;
+	color:none;
+	font-size:16px;
+	line-height:25px;
+	border-radius:15px;
+	cursor:pointer;
+}
+input[type=button]:hover
+
+{
+	color:#fff;
+	background-color:black;
+
+}
+h2
+{
+	color:white;
+}
+a
+{
+	color:yellow;
+	text-decoration:blink;
+
+}
+a:hover
+{
+	color:skyblue;
+}
+.container
+{
+	display:flex;
+	flex-direction:row;
+	width:100%
+}
+::placeholder
+{
+	color:aliceblue;
+	opacity:0.8;/*firebox */
+}

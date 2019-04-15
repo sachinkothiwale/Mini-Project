@@ -1,0 +1,81 @@
+#image
+{
+        box-sizing: content-box;
+        width: 70px;
+        height: 100px;
+        position: relative;
+        padding: 0px;
+        top: 59px;
+        left:50px;
+}
+#VMlable
+{
+        box-sizing: content-box;
+        width: 200px;
+        height: 30px;
+        position: relative;
+        padding: 0px;
+        top: 30px;
+        left:170px;
+}
+#main
+{
+        background-color: White;
+        width: 1330px;
+        height:450px;
+        border: 1px solid gray;
+        padding: 0;
+        margin: 25px;
+        position: absolute;
+        top: 20px;
+        right: -1030px;
+}
+#searchBox
+{
+  position: relative;
+  left: 50px;
+  top: 10px;
+}
+#searchBtn button
+{
+  background-color: lightblue;
+  color: white;
+  padding: 5px 20px;
+  position: relative;
+  left: 450px;
+  top: -15px;
+}
+#searchBtn button:hover
+{
+  background-color: blue;
+}
+
+
+#addBtn button
+{
+  background-color: green;
+  border: 15px solid white;
+  color: white;
+  padding: 5px 25px;
+  position: relative;
+  left: 700px;
+  top: -55px;
+
+}
+#addBtn button:hover
+{
+  background-color: #3e8e41;
+}
+
+#searchStyle
+{
+  box-sizing: content-box;
+  width: 900px;
+  height: 50px;
+  background-color: ;
+  border: solid black;
+  position: relative;
+  padding: 10px;
+  top: -70px;
+  left:190px;
+}

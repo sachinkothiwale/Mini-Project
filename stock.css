@@ -1,0 +1,20 @@
+#image
+{
+        box-sizing: content-box;
+        width: 70px;
+        height: 100px;
+        position: relative;
+        padding: 0px;
+        top: 59px;
+        left:50px;
+}
+#VMlable
+{
+        box-sizing: content-box;
+        width: 200px;
+        height: 30px;
+        position: relative;
+        padding: 0px;
+        top: 30px;
+        left:170px;
+}
